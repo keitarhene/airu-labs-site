@@ -5,28 +5,28 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "Dr. Maya Musharaf",
+    designation: "AI Researcher @Novas",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Airu Labs’ multi-agent systems have completely transformed how we approach collaborative AI research. Their technology is cutting-edge and reliable.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "Alex Thomson",
+    designation: "Founder @AIdeck",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Integrating Airu Labs’ platform into our product workflows accelerated development and improved AI efficiency dramatically.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "Levis Frenci",
+    designation: "Founder @Line Edge",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Airu Labs’ platform empowered our team to build smarter AI agents faster. The collaborative tools are a game-changer for startups exploring multi-agent systems",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
@@ -37,8 +37,8 @@ const Testimonials = () => {
     <section className="dark:bg-bg-color-dark bg-gray-light relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="What People Say"
+          paragraph="Hear from collaborators, researchers, and partners who have experienced the impact of Airu Labs’ AI innovations."
           center
         />
 

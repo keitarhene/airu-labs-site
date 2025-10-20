@@ -7,8 +7,8 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Details Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Blog Details Page for Startup Nextjs Template",
+  title: "Blog Details Page | Airu Labs",
+  description: "This is Blog Details Page for Airu Labs",
   // other metadata
 };
 
@@ -21,8 +21,7 @@ const BlogSidebarPage = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h1 className="mb-8 text-3xl leading-tight font-bold text-black sm:text-4xl sm:leading-tight dark:text-white">
-                  10 amazing sites to download stock photos & digital assets for
-                  free
+                  Harnessing Collective Intelligence in AI Systems
                 </h1>
                 <div className="border-body-color/10 mb-10 flex flex-wrap items-center justify-between border-b pb-4 dark:border-white/10">
                   <div className="flex flex-wrap items-center">
@@ -38,7 +37,7 @@ const BlogSidebarPage = () => {
                       </div>
                       <div className="w-full">
                         <span className="text-body-color mb-1 text-base font-medium">
-                          By <span> Musharof Chy</span>
+                          By <span> Dr. Maya Musharaf</span>
                         </span>
                       </div>
                     </div>
@@ -106,9 +105,7 @@ const BlogSidebarPage = () => {
                 </div>
                 <div>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    In traditional AI development, models often operate in isolation, solving narrowly defined tasks. While this approach has delivered remarkable breakthroughs, it limits the potential of intelligent systems to tackle complex, real-world problems. At Airu Labs, the focus is on collective intelligence, building AI agents that collaborate, share knowledge, and adapt dynamically to evolving environments.
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded-sm">
                     <div className="relative aspect-97/60 w-full sm:aspect-97/44">
@@ -121,56 +118,18 @@ const BlogSidebarPage = () => {
                     </div>
                   </div>
                   <p className="text-body-color mb-8 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis enim lobortis scelerisque fermentum. Neque
-                    sodales ut etiam sit amet. Ligula ullamcorper
-                    <strong className="text-primary dark:text-white">
-                      {" "}
-                      malesuada{" "}
-                    </strong>
-                    proin libero nunc consequat interdum varius. Quam
-                    pellentesque nec nam aliquam sem et tortor consequat.
-                    Pellentesque adipiscing commodo elit at imperdiet.
+                    During our experiments, we observed that multi-agent systems outperform single-agent models in tasks requiring coordination, problem decomposition, and continuous learning. By enabling agents to exchange context, reasoning strategies, and outcomes, the lab has created ecosystems where AI can learn from itself and others, leading to faster, more accurate decision-making.
+                    
                   </p>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Semper auctor neque vitae tempus quam pellentesque nec.
-                    <span className="text-primary underline dark:text-white">
-                      {" "}
-                      Amet dictum sit amet justo{" "}
-                    </span>
-                    donec enim diam. Varius sit amet mattis vulputate enim nulla
-                    aliquet porttitor. Odio pellentesque diam volutpat commodo
-                    sed.
+                    The implications are vast: from autonomous research assistants to scalable AI solutions in logistics, healthcare, and smart infrastructure, these collaborative frameworks open new possibilities for AI applications. Airu Labs’ approach emphasizes transparency and adaptability, ensuring that multi-agent systems remain interpretable and aligned with human goals.
+                    
                   </p>
-                  <h3 className="font-xl mb-10 leading-tight font-bold text-black sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight dark:text-white">
-                    Digital marketplace for Ui/Ux designers.
-                  </h3>
-                  <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    consectetur adipiscing elit in voluptate velit esse cillum
-                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                    mattis vulputate cupidatat.
-                  </p>
-                  <ul className="text-body-color mb-10 list-inside list-disc">
-                    <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
-                      Consectetur adipiscing elit in voluptate velit.
-                    </li>
-                    <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
-                      Mattis vulputate cupidatat.
-                    </li>
-                    <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
-                      Vulputate enim nulla aliquet porttitor odio pellentesque
-                    </li>
-                    <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
-                      Ligula ullamcorper malesuada proin
-                    </li>
-                  </ul>
+              
+                 
                   <div className="bg-primary/10 relative z-10 mb-10 overflow-hidden rounded-md p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-body-color text-center text-base font-medium italic">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod incididunt utionals labore et dolore magna
-                      aliqua. Quis lobortis scelerisque fermentum, The Neque ut
-                      etiam sit amet.
+                      As AI continues to evolve, collective intelligence will likely become the foundation for next-generation intelligent systems, and Airu Labs is at the forefront of making that vision a reality.
                     </p>
                     <span className="absolute top-0 left-0 z-[-1]">
                       <svg
@@ -314,9 +273,7 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    consectetur adipiscing elit in voluptate velit esse cillum
-                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                    mattis vulputate cupidatat.
+                    
                   </p>
                   <div className="items-center justify-between sm:flex">
                     <div className="mb-5">
@@ -324,9 +281,9 @@ const BlogSidebarPage = () => {
                         Popular Tags :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="Design" />
-                        <TagButton text="Development" />
-                        <TagButton text="Info" />
+                        <TagButton text="Collaboration" />
+                        <TagButton text="Multi-Agent" />
+                        <TagButton text="Innovation" />
                       </div>
                     </div>
                     <div className="mb-5">
@@ -375,7 +332,7 @@ const BlogSidebarPage = () => {
                 <ul className="p-8">
                   <li className="border-body-color/10 mb-6 border-b pb-6 dark:border-white/10">
                     <RelatedPost
-                      title="Best way to boost your online sales."
+                      title="Scaling AI Through Agent Ecosystems"
                       image="/images/blog/post-01.jpg"
                       slug="#"
                       date="12 Feb 2025"
@@ -383,7 +340,7 @@ const BlogSidebarPage = () => {
                   </li>
                   <li className="border-body-color/10 mb-6 border-b pb-6 dark:border-white/10">
                     <RelatedPost
-                      title="50 Best web design tips & tricks that will help you."
+                      title="Adaptive Learning in Multi-Agent Networks"
                       image="/images/blog/post-02.jpg"
                       slug="#"
                       date="15 Feb, 2024"
@@ -391,7 +348,7 @@ const BlogSidebarPage = () => {
                   </li>
                   <li>
                     <RelatedPost
-                      title="The 8 best landing page builders, reviewed"
+                      title="Design Principles for Collaborative AI"
                       image="/images/blog/post-03.jpg"
                       slug="#"
                       date="05 Jun, 2024"
@@ -409,7 +366,7 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="text-body-color hover:text-primary mb-3 inline-block text-base font-medium"
                     >
-                      Tailwind Templates
+                      Future of AI
                     </a>
                   </li>
                   <li>
@@ -417,7 +374,7 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="text-body-color hover:text-primary mb-3 inline-block text-base font-medium"
                     >
-                      Landing page
+                      Multi-Agent Systems
                     </a>
                   </li>
                   <li>
@@ -425,7 +382,7 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="text-body-color hover:text-primary mb-3 inline-block text-base font-medium"
                     >
-                      Startup
+                      AI Research & Innovation
                     </a>
                   </li>
                   <li>
@@ -433,7 +390,7 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="text-body-color hover:text-primary mb-3 inline-block text-base font-medium"
                     >
-                      Business
+                      Machine Learning Techniques
                     </a>
                   </li>
                   <li>
@@ -441,7 +398,7 @@ const BlogSidebarPage = () => {
                       href="#0"
                       className="text-body-color hover:text-primary mb-3 inline-block text-base font-medium"
                     >
-                      Multipurpose
+                      AI in Practice
                     </a>
                   </li>
                 </ul>
@@ -451,11 +408,11 @@ const BlogSidebarPage = () => {
                   Popular Tags
                 </h3>
                 <div className="flex flex-wrap px-8 py-6">
-                  <TagButton text="Themes" />
-                  <TagButton text="UI Kit" />
-                  <TagButton text="Tailwind" />
-                  <TagButton text="Startup" />
-                  <TagButton text="Business" />
+                  <TagButton text="Collaboration" />
+                  <TagButton text="Intelligence" />
+                  <TagButton text="Innovation" />
+                  <TagButton text="Autonomy" />
+                  <TagButton text="Research" />
                 </div>
               </div>
 

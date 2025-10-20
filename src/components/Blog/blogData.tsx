@@ -3,44 +3,44 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "The Rise of Multi-Agent Intelligence",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "How collaborative AI systems are redefining problem-solving across industries.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "Levis Frenci",
       image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
+      designation: "Founder @Line Edge",
     },
-    tags: ["creative"],
+    tags: ["Collaboration"],
     publishDate: "2025",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Designing Smarter Connections Between Machines",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Exploring how Airu Labs builds communication layers that make AI truly cooperative.",
     image: "/images/blog/blog-02.jpg",
     author: {
-      name: "Musharof Chy",
+      name: "Dr. Maya Musharaf",
       image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      designation: "AI Researcher",
     },
-    tags: ["computer"],
+    tags: ["Connectivity"],
     publishDate: "2025",
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "From Models to Ecosystems",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Why the future of AI lies in networks of interacting agents, not isolated models.",
     image: "/images/blog/blog-03.jpg",
     author: {
-      name: "Lethium Deo",
+      name: "Axel Deo",
       image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
+      designation: "CTO",
     },
-    tags: ["design"],
+    tags: ["Evolution"],
     publishDate: "2025",
   },
 ];

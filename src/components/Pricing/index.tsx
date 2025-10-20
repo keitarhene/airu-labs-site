@@ -12,7 +12,7 @@ const Pricing = () => {
       <div className="container">
         <SectionTitle
           title="Simple and Affordable Pricing"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Flexible plans designed for every stage of AI innovation, from experimentation to full-scale deployment."
           center
           width="665px"
         />
@@ -60,42 +60,42 @@ const Pricing = () => {
         <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
           <PricingBox
             packageName="Lite"
-            price={isMonthly ? "40" : "120"}
+            price={isMonthly ? "9" : "99"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Core tools to start experimenting with intelligent agents."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="inactive" />
-            <OfferList text="Free Lifetime Updates" status="inactive" />
+            <OfferList text="Multi-Agent Collaboration" status="active" />
+            <OfferList text="API Access & Integration" status="active" />
+            <OfferList text="Real-Time Model Execution" status="active" />
+            <OfferList text="Analytics & Monitoring" status="active" />
+            <OfferList text="Custom AI Workspaces" status="inactive" />
+            <OfferList text="Enterprise-Grade Security" status="inactive" />
           </PricingBox>
           <PricingBox
-            packageName="Basic"
-            price={isMonthly ? "399" : "789"}
+            packageName="Pro"
+            price={isMonthly ? "29" : "299"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Advanced features and flexibility for growing AI projects."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="active" />
-            <OfferList text="Free Lifetime Updates" status="inactive" />
+            <OfferList text="Multi-Agent Collaboration" status="active" />
+            <OfferList text="API Access & Integration" status="active" />
+            <OfferList text="Real-Time Model Execution" status="active" />
+            <OfferList text="Analytics & Monitoring" status="active" />
+            <OfferList text="Custom AI Workspaces" status="active" />
+            <OfferList text="Enterprise-Grade Security" status="inactive" />
           </PricingBox>
           <PricingBox
             packageName="Plus"
-            price={isMonthly ? "589" : "999"}
+            price={isMonthly ? "99" : "999"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Full suite with enterprise scalability, performance, and security."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="active" />
-            <OfferList text="Free Lifetime Updates" status="active" />
+            <OfferList text="Multi-Agent Collaboration" status="active" />
+            <OfferList text="API Access & Integration" status="active" />
+            <OfferList text="Real-Time Model Execution" status="active" />
+            <OfferList text="Analytics & Monitoring" status="active" />
+            <OfferList text="Custom AI Workspaces" status="active" />
+            <OfferList text="Enterprise-Grade Security" status="active" />
           </PricingBox>
         </div>
       </div>
